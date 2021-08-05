@@ -18,9 +18,10 @@
 ## Description  
 Backend for an E-commerce demo. Has routes and models with connections
 ## Screenshots
-![Screenshot of program](https://github.com/DeerRan/E-commerceBackend/blob/main/Assets/Screenshot1?raw=true)
-![Screenshot of program](https://github.com/DeerRan/E-commerceBackend/blob/main/Assets/Screenshot2?raw=true)
-![Screenshot of program](https://github.com/DeerRan/E-commerceBackend/blob/main/Assets/Screenshot3?raw=true)
+![Screenshot of program](https://github.com/DeerRan/E-commerceBackend/blob/main/Assets/Screenshot1.png?raw=true)
+![Screenshot of program](https://github.com/DeerRan/E-commerceBackend/blob/main/Assets/Screenshot2.png?raw=true)
+![Screenshot of program](https://github.com/DeerRan/E-commerceBackend/blob/main/Assets/Screenshot3.png?raw=true)
+![Screenshot of program](https://github.com/DeerRan/E-commerceBackend/blob/main/Assets/Screenshot4.png?raw=true)
 ## Demo
 https://youtu.be/b44llV8E5nw
 ## Installation
