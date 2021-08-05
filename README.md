@@ -5,6 +5,7 @@
 - [README](#datatitle)
 - [Table of Contents](#table-of-contents)
 - [Description](#description)
+- [Screenshots](#screenshots)
 - [Demo](#demo)
 - [Installation](#installation)
 - [Usage](#usage)
@@ -16,8 +17,12 @@
 - [Deployable Link](#deployable-link)
 ## Description  
 Backend for an E-commerce demo. Has routes and models with connections
+## Screenshots
+![Screenshot of program](https://github.com/DeerRan/E-commerceBackend/blob/main/Assets/Screenshot1?raw=true)
+![Screenshot of program](https://github.com/DeerRan/E-commerceBackend/blob/main/Assets/Screenshot2?raw=true)
+![Screenshot of program](https://github.com/DeerRan/E-commerceBackend/blob/main/Assets/Screenshot3?raw=true)
 ## Demo
-
+https://youtu.be/b44llV8E5nw
 ## Installation
 Grab it off Github, open up the Develop folder in VScode terminal and run "npm install". Afterwards, go into both the .env file and .connection.js and make sure all the information is correct for use. Then copy and paste the contents of the schema.sql into your MySQL workbench and make sure the database is created. Finally, go back to VScode terminal and run "npm run seed", followed by "npm run start" and it's good to go.
 ## Usage
